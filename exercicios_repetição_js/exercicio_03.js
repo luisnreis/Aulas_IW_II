@@ -23,4 +23,5 @@ else
     }
 }
 
+document.write('Chegamos ao fim do programa e aqui estão os resultados:<br>')
 document.write(`Serão <strong>${ano} anos</strong> para que a população dos países se igualem ou a menor passe a maior.`)
